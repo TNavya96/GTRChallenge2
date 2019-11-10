@@ -1,0 +1,16 @@
+<suite name="GTR-TEST">
+
+	
+
+	<test thread-count="1" name="BlueDartTest">
+		<!-- List all tests to include in this suite -->
+ 
+		<classes>
+
+			<class name="com.gtr.testcases.FirstTestCase" />
+			<class name="com.gtr.testcases.SixthTestCase" />
+			
+		</classes>
+
+	</test>
+</suite>

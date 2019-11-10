@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GTR-TEST]">
+  <test thread-count="5" name="BlueDartTest(failed)">
+    <classes>
+      <class name="com.gtr.testcases.SixthTestCase">
+        <methods>
+          <include name="sixthChallenge"/>
+        </methods>
+      </class> <!-- com.gtr.testcases.SixthTestCase -->
+    </classes>
+  </test> <!-- BlueDartTest(failed) -->
+</suite> <!-- Failed suite [GTR-TEST] -->
